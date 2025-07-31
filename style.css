@@ -10,6 +10,7 @@ body{
 .circle-yellow{
   width: 200px;
   height: 200px;
+  border-radius: 50%;
   background: yellow;
   transition: all .3s ease;
   animation: round 8s linear infinite;
